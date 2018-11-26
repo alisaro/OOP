@@ -6,3 +6,4 @@
 * MainProgram.cs
 * UseCaseDiagram.pdf
 * ComponentsDiagram.pdf
+* ActivityDiagram.pdf
