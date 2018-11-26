@@ -5,3 +5,4 @@
 * DiagramUML13.pdf - UML class diagram
 * MainProgram.cs
 * UseCaseDiagram.pdf
+* ComponentsDiagram.pdf
